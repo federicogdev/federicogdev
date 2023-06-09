@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Federico Giorgino</h1>
+<h1 align="center">Hi 👋, I'm Federico</h1>
 <h3 align="center">A full stack web developer with a passion for React Native</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=federicogdev&label=Profile%20views&color=0e75b6&style=flat" alt="federicogdev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=federicogdev" alt="federicogdev" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Next.js ad**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
