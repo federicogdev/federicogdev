@@ -5,7 +5,7 @@
 
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=federicogdev" alt="federicogdev" /></a></p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **SolidJS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
